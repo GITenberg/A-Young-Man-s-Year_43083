@@ -1,0 +1,35 @@
+_repo: A-Young-Man-s-Year_43083
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43083-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hope, Anthony
+    alias: Hawkins, Anthony Hope
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '63'
+    url: http://www.gutenberg.org/2009/agents/63
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Hope
+description: Young Arthur Lisle, feeling hesitant about his future, attends a dinner
+  party where chance opens not one, but two doors for him. Arthur falls under the
+  spell of his cousin's wife and embarks on a potentially successful or disastrous
+  business deal. A Young Man's Year follows Arthur as he navigates an unexpectedly
+  eventful year.
+gutenberg_issued: '2013-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43083'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Lawyers -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- Fiction'
+title: A Young Man's Year
+url: http://www.gutenberg.org/ebooks/43083
